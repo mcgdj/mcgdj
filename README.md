@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I love frontend and backend code! Need help with site styles? Just ask me.
 <!--
 **mcgdj/mcgdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
